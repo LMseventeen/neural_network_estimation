@@ -41,4 +41,10 @@ python -m simulation.main
 1. 系统状态和估计值对比图
 2. 估计误差图
 3. 事件触发时刻图
-4. 性能指标统计图 
+4. 性能指标统计图
+![bfe2d67a3342aef4cdce491422712de](https://github.com/user-attachments/assets/fabb05e0-33a8-4f43-8122-340b1c8fc9d2)
+![926bb828d1c34c5a564ca01cf9277d1](https://github.com/user-attachments/assets/e89385bd-6fae-4a23-a6db-b06a61e87b67)
+![1fd62a42593740087cbc707078d1eff](https://github.com/user-attachments/assets/54088515-4c7c-4d90-859c-b679830e38bc)
+![5e13615428dc5bdcc9410bac4eae653](https://github.com/user-attachments/assets/fb8d81f5-d491-4af9-ab11-5e791aff313b)
+
+
